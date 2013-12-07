@@ -1,0 +1,28 @@
+var class_n_g_u_i_tools =
+[
+    [ "AddChild", "d8/dee/class_n_g_u_i_tools.html#a12c8a9440871c3427868397569ecc98d", null ],
+    [ "AddChild", "d8/dee/class_n_g_u_i_tools.html#af58290856540b1f25b682f5f3ae00baa", null ],
+    [ "AddChild< T >", "d8/dee/class_n_g_u_i_tools.html#a010a473b2bbac50729f7e23de476e0b4", null ],
+    [ "AddSprite", "d8/dee/class_n_g_u_i_tools.html#a26e008b1642262c308c8e94a3b00f411", null ],
+    [ "AddWidget< T >", "d8/dee/class_n_g_u_i_tools.html#a3fbc7820e9ca26eb90abd6c2fe0628c3", null ],
+    [ "AddWidgetCollider", "d8/dee/class_n_g_u_i_tools.html#a3f43398d4488813a69469b7568f10182", null ],
+    [ "Broadcast", "d8/dee/class_n_g_u_i_tools.html#a197118f51547e414663660eabc52b979", null ],
+    [ "Broadcast", "d8/dee/class_n_g_u_i_tools.html#a0b10961f2adec0ab32d02ac3003f2951", null ],
+    [ "CalculateNextDepth", "d8/dee/class_n_g_u_i_tools.html#a1d486b4c80110d96ff5a19258b909038", null ],
+    [ "Destroy", "d8/dee/class_n_g_u_i_tools.html#ae09f4ec3a0de68bf9068809e81893ba5", null ],
+    [ "EncodeColor", "d8/dee/class_n_g_u_i_tools.html#a25d4a0c8d849dfd16932b6b561ec121d", null ],
+    [ "FindActive< T >", "d8/dee/class_n_g_u_i_tools.html#a07d7bc18e9f52b3c0abc8d12ed8710a0", null ],
+    [ "FindCameraForLayer", "d8/dee/class_n_g_u_i_tools.html#ab18671e3a0c8dfecde8d0f2bfd4ff404", null ],
+    [ "FindInParents< T >", "d8/dee/class_n_g_u_i_tools.html#ace6a5185629188fe27d9f744f88f8949", null ],
+    [ "GetHierarchy", "d8/dee/class_n_g_u_i_tools.html#a7e3fb287582e90e62deb042e50c32709", null ],
+    [ "GetName< T >", "d8/dee/class_n_g_u_i_tools.html#a14c0142e9436eb7d53fd808b9b9c3572", null ],
+    [ "IsChild", "d8/dee/class_n_g_u_i_tools.html#ac0cc514d7b4bcb259c4ced9275dc8288", null ],
+    [ "ParseColor", "d8/dee/class_n_g_u_i_tools.html#ac3dca93bffb20e95b1e7f0f334c1c38d", null ],
+    [ "ParseSymbol", "d8/dee/class_n_g_u_i_tools.html#a5a74c4aef4dfaea3a7c39b6d33666292", null ],
+    [ "PlaySound", "d8/dee/class_n_g_u_i_tools.html#ac56f4b23e7624744fe51d5f618df6f08", null ],
+    [ "PlaySound", "d8/dee/class_n_g_u_i_tools.html#a8d1b9dfc1f1db01b65a73f967af35efa", null ],
+    [ "RandomRange", "d8/dee/class_n_g_u_i_tools.html#ae0f332c30263a8837898a21dcc7c1207", null ],
+    [ "ReplaceAtlas", "d8/dee/class_n_g_u_i_tools.html#a6f2f4747661b43ee13c28bb663d211d1", null ],
+    [ "ReplaceFont", "d8/dee/class_n_g_u_i_tools.html#a8b41b93dd8c6dd665d988883eb4981de", null ],
+    [ "StripSymbols", "d8/dee/class_n_g_u_i_tools.html#af12cd5c3ef0e859a642bc2603b8ac228", null ]
+];

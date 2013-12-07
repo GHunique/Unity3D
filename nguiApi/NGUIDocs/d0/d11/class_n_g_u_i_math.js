@@ -1,0 +1,26 @@
+var class_n_g_u_i_math =
+[
+    [ "ApplyHalfPixelOffset", "d0/d11/class_n_g_u_i_math.html#ac5f9cafc95df60793cd5f6a41301241f", null ],
+    [ "ApplyHalfPixelOffset", "d0/d11/class_n_g_u_i_math.html#a4b37a4dea06ce26caa1e5c3917fe68e6", null ],
+    [ "CalculateAbsoluteWidgetBounds", "d0/d11/class_n_g_u_i_math.html#acac5a5ac1c57a541131e42d60da46ad9", null ],
+    [ "CalculateRelativeWidgetBounds", "d0/d11/class_n_g_u_i_math.html#a816f3817cd61e77da05bab23c60c7668", null ],
+    [ "CalculateRelativeWidgetBounds", "d0/d11/class_n_g_u_i_math.html#ab526cfc61a59334f96d9dca314129c68", null ],
+    [ "ColorToInt", "d0/d11/class_n_g_u_i_math.html#a2b9dece36062116e85bebfa7eeda1376", null ],
+    [ "ConstrainRect", "d0/d11/class_n_g_u_i_math.html#a07510fcfbabb8768b60621d32083b045", null ],
+    [ "ConvertToPixels", "d0/d11/class_n_g_u_i_math.html#af9b398234d756829f425c2b5982d2353", null ],
+    [ "ConvertToTexCoords", "d0/d11/class_n_g_u_i_math.html#acac521a80ff4bf6f9757d2bb7c5fc32d", null ],
+    [ "HexToColor", "d0/d11/class_n_g_u_i_math.html#ae0f4fbfbbc7c47d63a03a0efd1cb0067", null ],
+    [ "HexToDecimal", "d0/d11/class_n_g_u_i_math.html#ae7be9da2d0f73a8a497696f692ea454c", null ],
+    [ "IntToBinary", "d0/d11/class_n_g_u_i_math.html#a6e06bdd8eeddc1253b0dc484fe3d5867", null ],
+    [ "IntToColor", "d0/d11/class_n_g_u_i_math.html#af88f44df5756aa390ef8331540190426", null ],
+    [ "MakePixelPerfect", "d0/d11/class_n_g_u_i_math.html#a0193ceab5302ad1c4e72e8f7bb44c083", null ],
+    [ "MakePixelPerfect", "d0/d11/class_n_g_u_i_math.html#aa1f9aea15a53968a11cefb2be37d1e21", null ],
+    [ "RotateTowards", "d0/d11/class_n_g_u_i_math.html#a5da9f1efef6c7aa0f5b8b280f2f77b97", null ],
+    [ "SpringDampen", "d0/d11/class_n_g_u_i_math.html#aa06ea0a858d51fbe288fe796a1210a0c", null ],
+    [ "SpringLerp", "d0/d11/class_n_g_u_i_math.html#a5341017f7d764b5d633ea2516b81c77f", null ],
+    [ "SpringLerp", "d0/d11/class_n_g_u_i_math.html#ad1f6b9adadd325a1ac30b8f2ee915cf6", null ],
+    [ "SpringLerp", "d0/d11/class_n_g_u_i_math.html#a95d627500bd6511b5d2449989b1a41c6", null ],
+    [ "SpringLerp", "d0/d11/class_n_g_u_i_math.html#aa8ecf9923dcea7b5eb8fd74b5f1fedd3", null ],
+    [ "SpringLerp", "d0/d11/class_n_g_u_i_math.html#a9c9cb4f0f377b1285cfac368702d68bc", null ],
+    [ "WrapAngle", "d0/d11/class_n_g_u_i_math.html#a024b86fe4218920b37f22c1940aba03f", null ]
+];

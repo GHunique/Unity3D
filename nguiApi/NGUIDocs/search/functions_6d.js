@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['makepixelperfect',['MakePixelPerfect',['../d0/d11/class_n_g_u_i_math.html#a0193ceab5302ad1c4e72e8f7bb44c083',1,'NGUIMath.MakePixelPerfect(Rect rect)'],['../d0/d11/class_n_g_u_i_math.html#aa1f9aea15a53968a11cefb2be37d1e21',1,'NGUIMath.MakePixelPerfect(Rect rect, int width, int height)'],['../d1/d68/class_u_i_widget.html#abe4a263297bdc279ce3e373471d3b2c8',1,'UIWidget.MakePixelPerfect()'],['../db/d1c/class_u_i_label.html#a1e87ad67f5f4b7cbeb1c709a601f0266',1,'UILabel.MakePixelPerfect()'],['../d2/d9c/class_u_i_sliced_sprite.html#abc2f15b43b7d9fcd22ab98cdba2f4b2f',1,'UISlicedSprite.MakePixelPerfect()'],['../d1/dc6/class_u_i_sprite.html#a7d81b049fe253fbf9e8be3036c0d5edf',1,'UISprite.MakePixelPerfect()'],['../d4/d1b/class_u_i_texture.html#a89086fbc298271937840eb6f23772565',1,'UITexture.MakePixelPerfect()'],['../dc/d79/class_u_i_tiled_sprite.html#a6e64824e9a6da3dd958e130f937abd11',1,'UITiledSprite.MakePixelPerfect()']]],
+  ['makepositionperfect',['MakePositionPerfect',['../db/d1c/class_u_i_label.html#a61e4edda120df44d9dc37ac8fea4a55e',1,'UILabel']]],
+  ['markaschanged',['MarkAsChanged',['../d1/d68/class_u_i_widget.html#aeb8dd756bbe4bee8fa704ff02f91c993',1,'UIWidget.MarkAsChanged()'],['../db/d1c/class_u_i_label.html#ab0edbb501e9395523800206da07a26b2',1,'UILabel.MarkAsChanged()']]],
+  ['markasdirty',['MarkAsDirty',['../d8/d96/class_u_i_atlas.html#a3d1e4e83b62d7712ed1ee9ab106657a5',1,'UIAtlas.MarkAsDirty()'],['../d5/de7/class_u_i_font.html#a54335917630d44fb742a5bdb5dd7b4c0',1,'UIFont.MarkAsDirty()']]],
+  ['markmaterialaschanged',['MarkMaterialAsChanged',['../da/deb/class_u_i_panel.html#a59087f7f8971151caa6e55ac76baa5c6',1,'UIPanel']]]
+];
